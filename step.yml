@@ -1,0 +1,19 @@
+name: jlink
+version: 1.0.0
+summary: Creates a custom Java runtime from a given set of Java modules of an existing Java runtime
+tags:
+  - Java
+  - modules
+properties:
+- name: add_modules
+  type: string
+  default: java.base
+  required: false
+- name: output
+  type: string
+  default: javaruntime
+  required: false
+- name: compress
+  type: string
+  default: 2
+  required: false
