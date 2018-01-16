@@ -1,5 +1,5 @@
 name: jlink
-version: 1.0.0
+version: 1.0.1
 summary: Creates a custom Java runtime from a given set of Java modules of an existing Java runtime
 tags:
   - Java
