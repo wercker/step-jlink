@@ -1,4 +1,4 @@
-#step-jlink
+# step-jlink
 
 An official Wercker step for running [Jlink](https://docs.oracle.com/javase/9/tools/jlink.htm#JSWOR-GUID-CECAC52B-CFEE-46CB-8166-F17A8E9280E9).
 
@@ -45,3 +45,6 @@ build:
   steps:
     - wercker/jlink@0.0.1
 ```
+## Contributing to this repository 
+
+Oracle welcomes contributions to this repository from anyone.  Please see [CONTRIBUTING](CONTRIBUTING.md) for more information. 
